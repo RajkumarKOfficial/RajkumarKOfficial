@@ -1,4 +1,8 @@
-**Student at GIET.Pursuing BTECH-IT Finall Year.
+Student at GIET.Pursuing BTECH-IT Finall Year.
+Fields I am approaching : data science, data analytics
+
+
+
 
 <!--
 **RajkumarKOfficial/RajkumarKOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
